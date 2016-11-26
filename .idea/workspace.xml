@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="583b09cf-2bdc-4c6b-8b43-478bd25a0f10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/weichart/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/weichart/wei_chart.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/weichart/微信红包.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
@@ -21,6 +21,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/suanfa$hightestScore.coverage" NAME="hightestScore Coverage Results" MODIFIED="1479704257226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxScore" />
+    <SUITE FILE_PATH="coverage/suanfa$char_revert.coverage" NAME="char_revert Coverage Results" MODIFIED="1480140555779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/charRevert" />
     <SUITE FILE_PATH="coverage/suanfa$first_dup_key.coverage" NAME="first_dup_key Coverage Results" MODIFIED="1479978661998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/firstDupKey" />
     <SUITE FILE_PATH="coverage/suanfa$max_diff.coverage" NAME="max_diff Coverage Results" MODIFIED="1479879357111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxDis" />
     <SUITE FILE_PATH="coverage/suanfa$two_branch_search.coverage" NAME="two_branch_search Coverage Results" MODIFIED="1479779843491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch" />
@@ -42,7 +43,7 @@
     <favorites_list name="suanfa" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/schoolPractice/firstDupKey/first_dup_key.py" />
         <option value="$PROJECT_DIR$/src/schoolPractice/weichart/微信红包.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice/weichart/wei_chart.py" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
       </list>
     </option>
   </component>
@@ -134,7 +137,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,9 +186,32 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schoolPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="charRevert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -200,25 +225,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.wei_chart">
-    <configuration default="false" name="up_grate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/upGrate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="suanfa" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/upGrate/up_grate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.char_revert">
     <configuration default="false" name="two_branch_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,6 +294,24 @@
       <module name="suanfa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/weichart/wei_chart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="char_revert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/charRevert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suanfa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -485,19 +510,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.up_grate" />
-      <item index="1" class="java.lang.String" itemvalue="Python.two_branch_search" />
-      <item index="2" class="java.lang.String" itemvalue="Python.max_diff" />
-      <item index="3" class="java.lang.String" itemvalue="Python.first_dup_key" />
-      <item index="4" class="java.lang.String" itemvalue="Python.wei_chart" />
+      <item index="0" class="java.lang.String" itemvalue="Python.two_branch_search" />
+      <item index="1" class="java.lang.String" itemvalue="Python.max_diff" />
+      <item index="2" class="java.lang.String" itemvalue="Python.first_dup_key" />
+      <item index="3" class="java.lang.String" itemvalue="Python.wei_chart" />
+      <item index="4" class="java.lang.String" itemvalue="Python.char_revert" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.wei_chart" />
-        <item index="1" class="java.lang.String" itemvalue="Python.first_dup_key" />
-        <item index="2" class="java.lang.String" itemvalue="Python.max_diff" />
-        <item index="3" class="java.lang.String" itemvalue="Python.two_branch_search" />
-        <item index="4" class="java.lang.String" itemvalue="Python.up_grate" />
+        <item index="0" class="java.lang.String" itemvalue="Python.char_revert" />
+        <item index="1" class="java.lang.String" itemvalue="Python.wei_chart" />
+        <item index="2" class="java.lang.String" itemvalue="Python.first_dup_key" />
+        <item index="3" class="java.lang.String" itemvalue="Python.max_diff" />
+        <item index="4" class="java.lang.String" itemvalue="Python.two_branch_search" />
       </list>
     </recent_temporary>
   </component>
@@ -578,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23139158">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12459547">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12459547">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,6 +778,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29454172">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18125644">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15859938">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding />
         </state>
       </provider>
