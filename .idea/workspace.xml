@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="583b09cf-2bdc-4c6b-8b43-478bd25a0f10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/disTrack/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/disTrack/炮台距离.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
@@ -22,6 +22,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/suanfa$hightestScore.coverage" NAME="hightestScore Coverage Results" MODIFIED="1479704257226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxScore" />
     <SUITE FILE_PATH="coverage/suanfa$char_revert.coverage" NAME="char_revert Coverage Results" MODIFIED="1480140555779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/charRevert" />
+    <SUITE FILE_PATH="coverage/suanfa$dis_track.coverage" NAME="dis_track Coverage Results" MODIFIED="1480226881563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/disTrack" />
     <SUITE FILE_PATH="coverage/suanfa$first_dup_key.coverage" NAME="first_dup_key Coverage Results" MODIFIED="1479978661998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/firstDupKey" />
     <SUITE FILE_PATH="coverage/suanfa$max_diff.coverage" NAME="max_diff Coverage Results" MODIFIED="1479879357111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxDis" />
     <SUITE FILE_PATH="coverage/suanfa$two_branch_search.coverage" NAME="two_branch_search Coverage Results" MODIFIED="1479779843491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch" />
@@ -82,6 +83,8 @@
         <option value="$PROJECT_DIR$/src/schoolPractice/weichart/wei_chart.py" />
         <option value="$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/disTrack/炮台距离.txt" />
       </list>
     </option>
   </component>
@@ -137,6 +140,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,7 +195,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="charRevert" />
+              <option name="myItemId" value="upGrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schoolPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="disTrack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,7 +237,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -225,25 +250,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.char_revert">
-    <configuration default="false" name="two_branch_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="suanfa" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/two_branch_search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.dis_track">
     <configuration default="false" name="max_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,6 +319,24 @@
       <module name="suanfa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dis_track" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/disTrack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suanfa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -510,19 +535,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.two_branch_search" />
-      <item index="1" class="java.lang.String" itemvalue="Python.max_diff" />
-      <item index="2" class="java.lang.String" itemvalue="Python.first_dup_key" />
-      <item index="3" class="java.lang.String" itemvalue="Python.wei_chart" />
-      <item index="4" class="java.lang.String" itemvalue="Python.char_revert" />
+      <item index="0" class="java.lang.String" itemvalue="Python.max_diff" />
+      <item index="1" class="java.lang.String" itemvalue="Python.first_dup_key" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wei_chart" />
+      <item index="3" class="java.lang.String" itemvalue="Python.char_revert" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dis_track" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.char_revert" />
-        <item index="1" class="java.lang.String" itemvalue="Python.wei_chart" />
-        <item index="2" class="java.lang.String" itemvalue="Python.first_dup_key" />
-        <item index="3" class="java.lang.String" itemvalue="Python.max_diff" />
-        <item index="4" class="java.lang.String" itemvalue="Python.two_branch_search" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dis_track" />
+        <item index="1" class="java.lang.String" itemvalue="Python.char_revert" />
+        <item index="2" class="java.lang.String" itemvalue="Python.wei_chart" />
+        <item index="3" class="java.lang.String" itemvalue="Python.first_dup_key" />
+        <item index="4" class="java.lang.String" itemvalue="Python.max_diff" />
       </list>
     </recent_temporary>
   </component>
@@ -718,20 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrate/up_grate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4449838">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/binary/BinarySolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12783171">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/two_branch_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -743,13 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67971164">
           <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/maxDis/max_diff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2039135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -785,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18125644">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,6 +796,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15859938">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/binary/BinarySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28478965">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/maxDis/max_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16019417">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrate/up_grate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/disTrack/炮台距离.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37378642">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32038835">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
