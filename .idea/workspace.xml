@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="583b09cf-2bdc-4c6b-8b43-478bd25a0f10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/delete/Delete.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/delete/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/delete/删除.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/upGrade/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/upGrade/up_grede.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/upGrade/上台阶.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/stringSet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/stringSet/字符集合.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
@@ -24,15 +21,16 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/suanfa$hightestScore.coverage" NAME="hightestScore Coverage Results" MODIFIED="1479704257226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxScore" />
-    <SUITE FILE_PATH="coverage/suanfa$char_revert.coverage" NAME="char_revert Coverage Results" MODIFIED="1480140555779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/charRevert" />
     <SUITE FILE_PATH="coverage/suanfa$dis_track.coverage" NAME="dis_track Coverage Results" MODIFIED="1480226881563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/disTrack" />
+    <SUITE FILE_PATH="coverage/suanfa$wei_chart.coverage" NAME="wei_chart Coverage Results" MODIFIED="1480054255263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/weichart" />
+    <SUITE FILE_PATH="coverage/suanfa$up_grate.coverage" NAME="up_grate Coverage Results" MODIFIED="1479707508795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/upGrate" />
+    <SUITE FILE_PATH="coverage/suanfa$simple_error_log.coverage" NAME="simple_error_log Coverage Results" MODIFIED="1480316976006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/sampleErrorLog" />
+    <SUITE FILE_PATH="coverage/suanfa$string_set.coverage" NAME="string_set Coverage Results" MODIFIED="1480747589019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/stringSet" />
+    <SUITE FILE_PATH="coverage/suanfa$char_revert.coverage" NAME="char_revert Coverage Results" MODIFIED="1480140555779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/charRevert" />
     <SUITE FILE_PATH="coverage/suanfa$first_dup_key.coverage" NAME="first_dup_key Coverage Results" MODIFIED="1479978661998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/firstDupKey" />
     <SUITE FILE_PATH="coverage/suanfa$max_diff.coverage" NAME="max_diff Coverage Results" MODIFIED="1479879357111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/maxDis" />
     <SUITE FILE_PATH="coverage/suanfa$criminal_transfer.coverage" NAME="criminal_transfer Coverage Results" MODIFIED="1480487907868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/criminalTransfer" />
     <SUITE FILE_PATH="coverage/suanfa$two_branch_search.coverage" NAME="two_branch_search Coverage Results" MODIFIED="1479779843491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch" />
-    <SUITE FILE_PATH="coverage/suanfa$wei_chart.coverage" NAME="wei_chart Coverage Results" MODIFIED="1480054255263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/weichart" />
-    <SUITE FILE_PATH="coverage/suanfa$up_grate.coverage" NAME="up_grate Coverage Results" MODIFIED="1479707508795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/upGrate" />
-    <SUITE FILE_PATH="coverage/suanfa$simple_error_log.coverage" NAME="simple_error_log Coverage Results" MODIFIED="1480316976006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/sampleErrorLog" />
     <SUITE FILE_PATH="coverage/suanfa$Delete.coverage" NAME="Delete Coverage Results" MODIFIED="1480655844999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/delete" />
     <SUITE FILE_PATH="coverage/suanfa$up_grede.coverage" NAME="up_grede Coverage Results" MODIFIED="1480555751702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/upGrade" />
   </component>
@@ -52,11 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Delete.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/schoolPractice/delete/Delete.py">
+      <file leaf-file-name="string_set.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2669903">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27188465">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/schoolPractice/upGrade/上台阶.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice/delete/删除.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice/delete/Delete.py" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py" />
+        <option value="$PROJECT_DIR$/src/schoolPractice/stringSet/字符集合.txt" />
       </list>
     </option>
   </component>
@@ -167,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,29 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="upGrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="schoolPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="delete" />
+              <option name="myItemId" value="stringSet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,7 +242,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -278,25 +256,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.Delete">
-    <configuration default="false" name="dis_track" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/disTrack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="suanfa" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.string_set">
     <configuration default="false" name="simple_error_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,6 +325,24 @@
       <module name="suanfa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/delete/Delete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="string_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice/stringSet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suanfa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -563,19 +541,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dis_track" />
-      <item index="1" class="java.lang.String" itemvalue="Python.simple_error_log" />
-      <item index="2" class="java.lang.String" itemvalue="Python.criminal_transfer" />
-      <item index="3" class="java.lang.String" itemvalue="Python.up_grede" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Delete" />
+      <item index="0" class="java.lang.String" itemvalue="Python.simple_error_log" />
+      <item index="1" class="java.lang.String" itemvalue="Python.criminal_transfer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.up_grede" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Delete" />
+      <item index="4" class="java.lang.String" itemvalue="Python.string_set" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Delete" />
-        <item index="1" class="java.lang.String" itemvalue="Python.up_grede" />
-        <item index="2" class="java.lang.String" itemvalue="Python.criminal_transfer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.simple_error_log" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dis_track" />
+        <item index="0" class="java.lang.String" itemvalue="Python.string_set" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Delete" />
+        <item index="2" class="java.lang.String" itemvalue="Python.up_grede" />
+        <item index="3" class="java.lang.String" itemvalue="Python.criminal_transfer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.simple_error_log" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +632,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="26" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -663,11 +641,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/delete/Delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrade/up_grede.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,20 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrate/小易得升级之路.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51575094">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/二分查找.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3625129">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/two_branch_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -851,13 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37378642">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/weichart/微信红包.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12459547">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -910,13 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/sampleErrorLog/简单错误记录.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37702265">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice/generGree/生成格雷码.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32038835">
@@ -945,19 +902,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrade/上台阶.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.394822">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrade/up_grede.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35598704">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19579288">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -973,6 +920,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2669903">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/weichart/微信红包.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15859938">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrate/小易得升级之路.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7250258">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/upGrade/上台阶.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3954686">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/二分查找.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3625129">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/sampleErrorLog/简单错误记录.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77342945">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/stringSet/字符集合.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43048403">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27188465">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
