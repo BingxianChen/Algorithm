@@ -2,9 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bea1ace5-eec2-4359-8b9a-7fbe3f0a4663" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/printMat/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/printMat/print_mat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice/printMat/之字形打印矩阵.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/year_end _bonus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/年终奖.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/StockPig/Stock.java" afterPath="$PROJECT_DIR$/src/schoolPractice_1/StockPig/Stock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/StockPig/风口的猪-中国牛市.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/StockPig/风口的猪-中国牛市.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/binary/BinarySolution.java" afterPath="$PROJECT_DIR$/src/schoolPractice_1/binary/BinarySolution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/binary/懂二进制.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/binary/懂二进制.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/charRevert/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/weichart/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/charRevert/char_revert.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/charRevert/char_revert.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/charRevert/字符串的旋转.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/charRevert/字符串的旋转.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/criminalTransfer/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrate/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/criminalTransfer/criminal_transfer.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/criminalTransfer/criminal_transfer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/criminalTransfer/罪犯转移.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/criminalTransfer/罪犯转移.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/delete/Delete.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/delete/Delete.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/delete/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrade/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/delete/删除.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/delete/删除.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/disTrack/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/twoSplitSearch/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/disTrack/dis_track.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/disTrack/dis_track.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/disTrack/炮台距离.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/disTrack/炮台距离.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/firstDupKey/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/stringSet/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/firstDupKey/first_dup_key.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/firstDupKey/first_dup_key.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/firstDupKey/首个重复字符.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/firstDupKey/首个重复字符.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/generGree/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sortPock/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/generGree/gener_gree.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/generGree/gener_gree.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/generGree/生成格雷码.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/generGree/生成格雷码.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/maxDis/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sampleErrorLog/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/maxDis/max_diff.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/maxDis/max_diff.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/maxDis/最大差值.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/maxDis/最大差值.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/maxScore/hightestScore.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/maxScore/hightestScore.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/maxScore/最高分是多少.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/maxScore/最高分是多少.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/miniBallDis/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/reverseChar/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/miniBallDis/mini_ball_dis.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/mini_ball_dis.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/miniBallDis/小球的距离.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/小球的距离.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/printMat/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/printMat/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/printMat/print_mat.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/printMat/print_mat.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/printMat/之字形打印矩阵.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/printMat/之字形打印矩阵.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/reverseChar/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/reverseChar/reverse_char.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/reverseChar/reverse_char.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/reverseChar/棋子翻转.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/reverseChar/棋子翻转.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sampleErrorLog/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/maxDis/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sampleErrorLog/simple_error_log.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sampleErrorLog/simple_error_log.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sampleErrorLog/简单错误记录.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sampleErrorLog/简单错误记录.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sortPock/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/generGree/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sortPock/sort_pock.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sortPock/sort_pock.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/sortPock/扑克牌大小.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/sortPock/扑克牌大小.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/stringSet/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/firstDupKey/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/stringSet/string_set.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/stringSet/string_set.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/stringSet/字符集合.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/stringSet/字符集合.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/disTrack/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/two_branch_search.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/twoSplitSearch/two_branch_search.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/twoSplitSearch/二分查找.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/twoSplitSearch/二分查找.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrade/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/delete/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrade/up_grede.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrade/up_grede.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrade/上台阶.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrade/上台阶.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrate/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/criminalTransfer/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrate/up_grate.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrate/up_grate.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/upGrate/小易得升级之路.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/upGrate/小易得升级之路.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/weichart/__init__.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/charRevert/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/weichart/wei_chart.py" afterPath="$PROJECT_DIR$/src/schoolPractice_1/weichart/wei_chart.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/schoolPractice/weichart/微信红包.txt" afterPath="$PROJECT_DIR$/src/schoolPractice_1/weichart/微信红包.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
@@ -64,6 +121,8 @@
         <option value="$PROJECT_DIR$/src/schoolPractice/miniBallDis/小球的距离.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice/printMat/print_mat.py" />
         <option value="$PROJECT_DIR$/src/schoolPractice/printMat/之字形打印矩阵.txt" />
+        <option value="$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/年终奖.txt" />
+        <option value="$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/year_end _bonus.py" />
       </list>
     </option>
   </component>
@@ -103,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,29 +195,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="schoolPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
+              <option name="myItemId" value="schoolPractice_2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="schoolPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="printMat" />
+              <option name="myItemId" value="year-endBonus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -177,7 +219,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -517,11 +558,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -531,11 +570,13 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -554,89 +595,102 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/sortPock/扑克牌大小.txt">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/sortPock/扑克牌大小.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/StockPig/Stock.java">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/StockPig/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/StockPig/Stock.java">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/StockPig/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72977346">
           <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/firstDupKey/first_dup_key.py">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/firstDupKey/first_dup_key.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23139158">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/reverseChar/棋子翻转.txt">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/reverseChar/棋子翻转.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3219512">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/reverseChar/reverse_char.py">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/reverseChar/reverse_char.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40938511">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/sortPock/sort_pock.py">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/sortPock/sort_pock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46278316">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/sortPock/扑克牌大小.txt">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/sortPock/扑克牌大小.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18122977">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/miniBallDis/小球的距离.txt">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/小球的距离.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24919094">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/miniBallDis/mini_ball_dis.py">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/mini_ball_dis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/printMat/之字形打印矩阵.txt">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/printMat/之字形打印矩阵.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07119741">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/printMat/print_mat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17799352">
+          <caret line="10" column="16" selection-start-line="1" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/年终奖.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035598706">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice/printMat/print_mat.py">
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/year-endBonus/year_end _bonus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17799352">
-          <caret line="10" column="16" selection-start-line="1" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.12459547">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
