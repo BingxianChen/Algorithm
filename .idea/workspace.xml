@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bea1ace5-eec2-4359-8b9a-7fbe3f0a4663" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/avgAge/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/avgAge/avgAge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/avgAge/平均年龄.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/maxInter/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/schoolPractice_2/maxInter/最大间隔.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classic/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classic/link/Joseph1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classic/link/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Classic/link/约瑟夫问题1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
@@ -38,6 +36,7 @@
     <SUITE FILE_PATH="coverage/suanfa$slice_page.coverage" NAME="slice_page Coverage Results" MODIFIED="1481596250783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice_2/slicepage" />
     <SUITE FILE_PATH="coverage/suanfa$reverse_char.coverage" NAME="reverse_char Coverage Results" MODIFIED="1480907460802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/reverseChar" />
     <SUITE FILE_PATH="coverage/suanfa$scholar_ship.coverage" NAME="scholar_ship Coverage Results" MODIFIED="1481532111257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice_2/scholarship" />
+    <SUITE FILE_PATH="coverage/suanfa$Joseph1.coverage" NAME="Joseph1 Coverage Results" MODIFIED="1482890670823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Classic/link" />
     <SUITE FILE_PATH="coverage/suanfa$mini_ball_dis.coverage" NAME="mini_ball_dis Coverage Results" MODIFIED="1481078934517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/schoolPractice/miniBallDis" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -48,28 +47,7 @@
     <favorites_list name="suanfa" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="max_Inter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19579288">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="最大间隔.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/maxInter/最大间隔.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,6 +107,9 @@
         <option value="$PROJECT_DIR$/src/schoolPractice_2/avgAge/avgAge.py" />
         <option value="$PROJECT_DIR$/src/schoolPractice_2/maxInter/最大间隔.txt" />
         <option value="$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py" />
+        <option value="$PROJECT_DIR$/src/Classic/link/约瑟夫问题.txt" />
+        <option value="$PROJECT_DIR$/src/Classic/link/Joseph1.py" />
+        <option value="$PROJECT_DIR$/src/Classic/link/约瑟夫问题1.txt" />
       </list>
     </option>
   </component>
@@ -201,8 +182,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="schoolPractice_2" />
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,25 +215,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="schoolPractice_2" />
+              <option name="myItemId" value="Classic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maxInter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="link" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,25 +239,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/chen/self-site/suanfa/src/schoolPractice_2/catchFish/钓鱼比赛.txt" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Python.max_Inter">
-    <configuration default="false" name="last_char" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/schoolPractice_2/LastChar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="suanfa" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice_2/LastChar/last_char.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Joseph1">
     <configuration default="false" name="catch_fish" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +308,24 @@
       <module name="suanfa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Joseph1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Classic/link" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suanfa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Classic/link/Joseph1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -543,19 +524,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.last_char" />
-      <item index="1" class="java.lang.String" itemvalue="Python.catch_fish" />
-      <item index="2" class="java.lang.String" itemvalue="Python.move_table" />
-      <item index="3" class="java.lang.String" itemvalue="Python.avgAge" />
-      <item index="4" class="java.lang.String" itemvalue="Python.max_Inter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.catch_fish" />
+      <item index="1" class="java.lang.String" itemvalue="Python.move_table" />
+      <item index="2" class="java.lang.String" itemvalue="Python.avgAge" />
+      <item index="3" class="java.lang.String" itemvalue="Python.max_Inter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Joseph1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.max_Inter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.avgAge" />
-        <item index="2" class="java.lang.String" itemvalue="Python.move_table" />
-        <item index="3" class="java.lang.String" itemvalue="Python.catch_fish" />
-        <item index="4" class="java.lang.String" itemvalue="Python.last_char" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Joseph1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.max_Inter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.avgAge" />
+        <item index="3" class="java.lang.String" itemvalue="Python.move_table" />
+        <item index="4" class="java.lang.String" itemvalue="Python.catch_fish" />
       </list>
     </recent_temporary>
   </component>
@@ -575,9 +556,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2395" y="-201" width="2245" height="1333" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2516704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2516704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990506" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -618,7 +599,7 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="52" />
+      <option name="time" value="63" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -627,20 +608,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/reverseChar/reverse_char.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40938511">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/sortPock/sort_pock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46278316">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice_1/miniBallDis/小球的距离.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24919094">
@@ -971,18 +938,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19579288">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/maxInter/最大间隔.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.24919094">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPractice_2/maxInter/max_Inter.py">
+    <entry file="file://$PROJECT_DIR$/src/Classic/link/约瑟夫问题1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17799352">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classic/link/Joseph1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19579288">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
