@@ -1,0 +1,5 @@
+
+一:字符串
+1.将列表转换为字符串:  "".join(list)
+2.Python replace() 方法把字符串中的 old（旧字符串） 替换成 new(新字符串)，如果指定第三个参数max，则替换不超过 max 次。
+    str.replace(old, new[, max])
