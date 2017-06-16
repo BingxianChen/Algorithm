@@ -90,21 +90,6 @@ class DogCatQueue():
 
 
 
-# d1 = Dog()
-# d2 = Dog()
-# c1 = Cat()
-# c2 = Cat()
-# Q = DogCatQueue()
-# Q.add(d1)
-# Q.add(c1)
-# print Q.pollAll().getPetType()
-
-
-
-
-
-
-
 
 
 
