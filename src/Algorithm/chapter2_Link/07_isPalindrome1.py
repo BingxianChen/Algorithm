@@ -1,5 +1,6 @@
 # coding: utf8
 
+# 判断链表是否是回文结构
 class Node(object):
     def __init__(self,data,_next=None):
         self.data = data
